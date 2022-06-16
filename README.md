@@ -1,6 +1,9 @@
 # Pig-Dice-Game
 Pig Dice Game (Web App) using HTML, CSS, JavaScript
 
+## You can play the game by visiting here : 
+https://pig-dice-game-99.netlify.app/
+
 GAME RULES:
 
 - The game has 2 players, playing in rounds
